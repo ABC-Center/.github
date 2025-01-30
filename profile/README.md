@@ -1,12 +1,12 @@
-# AI and Biodiversity Change (ABC) Global Climate Center
+# AI and Biodiversity Change (ABC) Global Center
 
-The ABC Global Climate Center GitHub organization hosts the development and distribution of a collection of open-source ML tools used to study the impacts of climate change on biodiversity. Open-source models and datsets are hosted on the [ABC Hugging Face](https://huggingface.co/ABC-climate).
+The ABC Global Center GitHub organization hosts the development and distribution of a collection of open-source ML tools used to study the impacts of environmental change on biodiversity. Open-source models and datsets are hosted on the [ABC Hugging Face](https://huggingface.co/ABC-Center).
 
-## What is the ABC Global Climate Center?
+## What is the ABC Global Center?
 
-The NSF and NSERC-funded [Artificial Intelligence and Biodiversity Change (ABC) Global Climate Center](https://www.abcclimate.org/) brings together ecologists and computer scientists from six universities in the United States and Canada to develop new AI-enabled, data-supported approaches for understanding the impacts of climate change on biodiversity. The Center will develop and implement a variety of AI-based methods and tools for integration and analysis of biodiversity data from remote sensing imagery from satellites and low-flying aircrafts, ground-based visual and audio sensors, DNA sequences, and citizen science efforts, enabling the global monitoring, analysis, and assessment of biodiversity changes. The Center is pursuing these goals through a broad network of stakeholders from the U.S., UK and EU, plus Canada, Australia, Africa, India, and Central America, including representatives from academic institutions, multi-institution research collaborations, governmental agencies, NGOs, and industry. 
+The NSF and NSERC-funded [Artificial Intelligence and Biodiversity Change (ABC) Global Center](http://abcresearchcenter.org/) brings together ecologists and computer scientists from six universities in the United States and Canada to develop new AI-enabled, data-supported approaches for understanding the impacts of environmental change on biodiversity. The Center will develop and implement a variety of AI-based methods and tools for integration and analysis of biodiversity data from remote sensing imagery from satellites and low-flying aircrafts, ground-based visual and audio sensors, DNA sequences, and citizen science efforts, enabling the global monitoring, analysis, and assessment of biodiversity changes. The Center is pursuing these goals through a broad network of stakeholders from the U.S., UK and EU, plus Canada, Australia, Africa, India, and Central America, including representatives from academic institutions, multi-institution research collaborations, governmental agencies, NGOs, and industry. 
 
-A more detailed description of our mission, vision, and rationale is located on the [ABC website's About page](https://www.abcclimate.org/about).
+A more detailed description of our mission, vision, and rationale is located on the [ABC website's About page](http://abcresearchcenter.org/about).
 
 <br>
 
